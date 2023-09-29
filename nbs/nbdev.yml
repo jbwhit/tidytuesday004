@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "tidytuesday004"
+  site-url: "https://jbwhit.github.io/tidytuesday004"
+  description: "Pizza party!"
+  repo-branch: main
+  repo-url: "https://github.com/jbwhit/tidytuesday004"
